@@ -1,0 +1,43 @@
+body {
+    background-color:#f1f1f1;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: 600;
+    font-family:cursive, Georgia, 'Times New Roman', Times, serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+ }
+
+ .metka{
+  width: 400px;
+  border-radius: 45%;
+  
+ }
+
+ .info p {
+  color: red;
+  margin: 0;
+  font-weight: bold;
+  text-decoration: underline; 
+  text-transform: uppercase; 
+  letter-spacing: 1px;
+  word-spacing: 0px;
+ }
+
+.container {
+
+max-width: 1000px;
+margin: auto;
+
+
+}
+.social {
+ background: yellow;
+ padding: 15px 50px;
+ border: 10px groove coral;
+ border-bottom-style: ridge;
+ border-left-style: ridge;
+ border-right-color:coral;
+ border-left-color:coral;
+ 
+
+
+}
